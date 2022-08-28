@@ -4,5 +4,5 @@ I earned my PhD in Physics of Complex Networks from University of Barcelona (UB)
 
 Aside from being a nerd, I'm an avid traveler and aventure sports enthusiast.
 
-See my [personal website](https://elisendaortiz.github.io/) for a full academic bio.
+You can visit my [personal website](https://elisendaortiz.github.io/) for a full academic bio.
 
