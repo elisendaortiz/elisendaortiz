@@ -11,13 +11,12 @@ Aside from being a nerd, I'm an avid traveler and an aventure-sports enthusiast 
 <div>
     <a href="https://www.linkedin.com/in/elisendaortiz/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
-    </a>&nbsp
+    </a>&nbsp;
     <a href="https://calendly.com/karabaostudios/" target="_blank">
         <img src="https://img.shields.io/badge/Calendly-Let's%20Talk!-purple?style=for-the-badge&logo=googlechat" height="30">
-    </a>&nbsp
+    </a>&nbsp;
     <a href="https://www.buymeacoffee.com/eortiz" target="_blank">    
-        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
-    </a>&nbsp
-    
+        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125">
+    </a>
 </div>
 <hr>
